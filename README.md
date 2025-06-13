@@ -1,0 +1,1 @@
+# A-Size-Effect-Model-for-Predicting-In-Plane-Tensile-Properties-of-Triaxial-Woven-Composite-Strips

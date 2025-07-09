@@ -1,1 +1,1 @@
-# A-Size-Effect-Model-for-Predicting-In-Plane-Tensile-Properties-of-Triaxial-Woven-Composite-Strips
+# A size effect model for predicting in-plane mechanical isotropy of triaxial woven composite strips
